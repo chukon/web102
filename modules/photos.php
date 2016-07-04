@@ -1,0 +1,1 @@
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/konkol/albums/72157665005312371" title="Feb2016 #RVCHourofCode"><img src="https://farm2.staticflickr.com/1553/25013475320_d71b1341ce_c.jpg" width="800" height="258" alt="Feb2016 #RVCHourofCode"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
